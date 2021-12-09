@@ -1,4 +1,5 @@
-$ mkdir tutorial
-$ cd tutorial
-$ git init
-Initialized empty Git repository in /Users/eguchi/Desktop/tutorial/.git/
+$ git add myfile.txt
+$ git commit -m "first commit"
+[master (root-commit) a73ae49] first commit
+ 1 files changed, 1 insertions(+), 0 deletions(-)
+ create mode 100644 myfile.txt
